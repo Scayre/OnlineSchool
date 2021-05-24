@@ -1,0 +1,15 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.OnlineSchool.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Sultan\RiderProjects\OnlineSchool\.idea\.idea.OnlineSchool\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/bin/
+*.xml
